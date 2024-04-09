@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/main.cpp.o -c /dwt/project/dwt-webserver/src/main.cpp",
+  "file": "/dwt/project/dwt-webserver/src/main.cpp",
+  "output": "src/CMakeFiles/server.dir/main.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/buffer.cpp.o -c /dwt/project/dwt-webserver/src/webserver/buffer.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/buffer.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/buffer.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/epoller.cpp.o -c /dwt/project/dwt-webserver/src/webserver/epoller.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/epoller.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/epoller.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/heaptimer.cpp.o -c /dwt/project/dwt-webserver/src/webserver/heaptimer.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/heaptimer.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/heaptimer.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/httpconn.cpp.o -c /dwt/project/dwt-webserver/src/webserver/httpconn.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/httpconn.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/httpconn.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/httprequest.cpp.o -c /dwt/project/dwt-webserver/src/webserver/httprequest.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/httprequest.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/httprequest.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/httpresponse.cpp.o -c /dwt/project/dwt-webserver/src/webserver/httpresponse.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/httpresponse.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/httpresponse.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/log.cpp.o -c /dwt/project/dwt-webserver/src/webserver/log.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/log.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/log.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/sqlconnpool.cpp.o -c /dwt/project/dwt-webserver/src/webserver/sqlconnpool.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/sqlconnpool.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/sqlconnpool.cpp.o"
+},
+{
+  "directory": "/dwt/project/dwt-webserver/build/src",
+  "command": "/usr/bin/g++  -I/dwt/project/dwt-webserver/src/./include -I/dwt/project/dwt-webserver/src/./thirdparty -g -std=gnu++14 -o CMakeFiles/server.dir/webserver/webserver.cpp.o -c /dwt/project/dwt-webserver/src/webserver/webserver.cpp",
+  "file": "/dwt/project/dwt-webserver/src/webserver/webserver.cpp",
+  "output": "src/CMakeFiles/server.dir/webserver/webserver.cpp.o"
+}
+]

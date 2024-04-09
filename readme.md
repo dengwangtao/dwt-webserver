@@ -20,17 +20,9 @@
 ```
 .
 ├── code           源代码
-│   ├── buffer
-│   ├── config
-│   ├── http
-│   ├── log
-│   ├── timer
-│   ├── pool
-│   ├── server
+│   ├── include
+│   ├── webserver
 │   └── main.cpp
-├── test           单元测试
-│   ├── Makefile
-│   └── test.cpp
 ├── resources      静态资源
 │   ├── index.html
 │   ├── image
@@ -39,11 +31,10 @@
 │   └── css
 ├── bin            可执行文件
 │   └── server
-├── log            日志文件
+│   └── log        日志文件
 ├── webbench-1.5   压力测试
-├── build          
-│   └── Makefile
-├── Makefile
+├── build          构建目录
+├── CMakeLists.txt
 ├── LICENSE
 └── readme.md
 ```
@@ -67,16 +58,11 @@ INSERT INTO user(username, password) VALUES('name', 'password');
 ```
 
 ```bash
+cd build
+cmake ..
 make
-./bin/server
 ```
 
-## 单元测试
-```bash
-cd test
-make
-./test
-```
 
 ## 压力测试
 
@@ -92,11 +78,6 @@ make
 ./webbench-1.5/webbench -c 10000 -t 10 http://ip:port/
 ```
 
-* 测试环境: Ubuntu:18.40 cpu:i5-8400 内存:12G 
+* 测试环境: Ubuntu:22.04 cpu:i5-13490F 内存:12G 
 * QPS 10000+
-
-## TODO
-* config配置
-* 完善单元测试
-* 实现循环缓冲区
 

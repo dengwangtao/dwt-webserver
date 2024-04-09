@@ -1,0 +1,30 @@
+2024-04-09 14:47:43.039536 [info] : ========== Server init ==========
+2024-04-09 14:47:43.039558 [info] : Port:1316, OpenLinger: false
+2024-04-09 14:47:43.039561 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-09 14:47:43.039562 [info] : LogSys level: 1
+2024-04-09 14:47:43.039565 [info] : srcDir: /dwt/project/dwt-webserver/bin/resources/
+2024-04-09 14:47:43.039607 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-09 14:47:43.039610 [info] : ========== Server start ==========
+2024-04-09 14:47:47.335829 [info] : Client[6](127.0.0.1:51865) in, userCount:1
+2024-04-09 14:47:47.336189 [info] : Client[6] in!
+2024-04-09 14:47:47.337587 [info] : Client[7](127.0.0.1:55449) in, userCount:2
+2024-04-09 14:47:47.337759 [info] : Client[7] in!
+2024-04-09 14:47:47.582417 [info] : Client[8](127.0.0.1:56473) in, userCount:3
+2024-04-09 15:01:37.574163 [info] : ========== Server init ==========
+2024-04-09 15:01:37.574194 [info] : Port:1316, OpenLinger: false
+2024-04-09 15:01:37.574197 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-09 15:01:37.574198 [info] : LogSys level: 1
+2024-04-09 15:01:37.574233 [info] : srcDir: ../resources/
+2024-04-09 15:01:37.574236 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-09 15:01:37.574730 [info] : ========== Server start ==========
+2024-04-09 15:01:39.890189 [info] : Client[6](127.0.0.1:17052) in, userCount:1
+2024-04-09 15:01:39.890429 [info] : Client[6] in!
+2024-04-09 15:01:39.905162 [info] : Client[7](127.0.0.1:20636) in, userCount:2
+2024-04-09 15:01:39.905368 [info] : Client[7] in!
+2024-04-09 15:01:40.126719 [info] : Client[8](127.0.0.1:23196) in, userCount:3
+2024-04-09 15:01:40.127098 [info] : Client[8] in!
+2024-04-09 15:01:40.554645 [info] : Client[9](127.0.0.1:24220) in, userCount:4
+2024-04-09 15:01:40.554875 [info] : Client[9] in!
+2024-04-09 15:01:40.585265 [info] : Client[10](127.0.0.1:27292) in, userCount:5
+2024-04-09 15:01:40.585589 [info] : Client[10] in!
+2024-04-09 15:01:40.660288 [info] : Client[11](127.0.0.1:29340) in, userCount:6
