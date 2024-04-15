@@ -81,3 +81,5 @@ make
 * 测试环境: Ubuntu:22.04 cpu:i5-13490F 内存:12G 
 * QPS 10000+
 
+![压测](https://github.com/dengwangtao/dwt-webserver/blob/main/readme.assest/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95.png?raw=true)
+
